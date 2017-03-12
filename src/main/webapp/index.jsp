@@ -9,6 +9,11 @@
 </head>
 <body>
 <h1>This is home page</h1><br>
-<a href="${pageContext.request.contextPath}/view/hello.html">Go to login page</a>
+<h1>This is home page</h1><br>
+<h1>This is home page</h1><br>
+<h1>This is home page</h1><br>
+<h1>This is home page</h1><br>
+<h1>This is home page</h1><br>
+
 </body>
 </html>
