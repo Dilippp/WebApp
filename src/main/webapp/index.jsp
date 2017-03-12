@@ -9,7 +9,7 @@
 </head>
 <body>
 <h1>This is home page</h1><br>
-<h1 style="color:red">This is home page</h1><br>
+<h1 style="color:green">This is home page</h1><br>
 
 
 </body>
